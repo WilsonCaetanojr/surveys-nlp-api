@@ -1,0 +1,2 @@
+yarn typeorm migration:create -n CreateUsers //cria migration
+yarn typeorm migration:run //roda a migration
