@@ -1,3 +1,4 @@
 yarn typeorm migration:create -n CreateUsers //cria migration
 yarn typeorm migration:create -n CreateSurveys
 yarn typeorm migration:run //roda a migration
+yarn test
