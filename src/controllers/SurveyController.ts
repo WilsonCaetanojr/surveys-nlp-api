@@ -8,15 +8,22 @@ class ServeyController {
 
         const surveysRepository = getCustomRepository(SurveysRepository)
 
-
-
-       const survey =  surveysRepository.create({
+        const survey =  surveysRepository.create({
            title, description
-       })
+        })
 
        await surveysRepository.save(survey)
 
-        return res.status(201).json(survey)
+       return res.status(201).json(survey)
+    }
+
+    async show(req:Request , res: Response){
+        
+        const surveysRepository = getCustomRepository(SurveysRepository)
+
+        const all = await surveysRepository.find()
+
+        return res.status(200).json(all)
     }
 }
 
