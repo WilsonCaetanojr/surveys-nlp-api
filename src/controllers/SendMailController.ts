@@ -27,7 +27,8 @@ class SendMailController {
         }
 
         const surveyUserExists = surveysUsersRepository.findOne({
-            where: [{user_id: userExists.id}, {value: null}]
+            where: [{user_id: userExists.id}, {value: null}],
+            relations: ["user", "survey"]
         })
 
         const npsPath = resolve(__dirname, "..", "views", "emails", "npsMail.hbs");
