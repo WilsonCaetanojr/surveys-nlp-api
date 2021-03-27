@@ -28,7 +28,7 @@ The technologies used in the project:
 
 # 🔶 Diagram
 
-<img src="https://imgur.com/CJaGZrF.png" alt="Move It" width="500"/>
+<img src="https://imgur.com/5mhRo12.png" alt="Move It" width="500"/>
 
 # :construction_worker: How to run
 ```bash
