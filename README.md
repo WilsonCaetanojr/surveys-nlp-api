@@ -14,12 +14,14 @@
 # :computer: Technologies
 The technologies used in the project:
 
-* [Typescript](https://www.typescriptlang.org/)      
+* [Node](https://nodejs.org/)      
+* [Typescript](https://www.typescriptlang.org/)            
 * [Ethereal-Email](https://ethereal.email/)      
 * [TypeORM](https://typeorm.io/#/)      
-* [Express](https://expressjs.com/pt-br/)      
+* [Express](https://expressjs.com/pt-br/)    
 * [Jest](https://jestjs.io/)      
-     
+* [Handlebars](https://handlebarsjs.com/) 
+
 # :rocket: Features
 
 * User registration.
