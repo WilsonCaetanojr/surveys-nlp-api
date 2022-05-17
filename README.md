@@ -1,8 +1,8 @@
 <p align="center">
-   <img src="https://imgur.com/K8uvfEG.png" alt="Move It" width="400"/>
+   <img src="https://imgur.com/LsaL71Q.png" alt="Move It" width="400"/>
 </p>
 
- <img src="https://i.imgur.com/BN00Y8W.png" alt="Move It" width="900"/>
+ <img src="https://imgur.com/TX6nLfV.png" alt="Move It" width="900"/>
 
 # :pushpin: Table of Contents
 
@@ -30,7 +30,7 @@ The technologies used in the project:
 
 # 🔶 Diagram
 
-<img src="https://imgur.com/5mhRo12.png" alt="Move It" width="500"/>
+<img src="https://imgur.com/7aSsiKz.png" alt="Move It" width="500"/>
 
 # :construction_worker: How to run
 ```bash
